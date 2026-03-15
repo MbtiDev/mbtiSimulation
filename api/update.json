@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.2",
   "download_url": "https://github.com/MbtiDev/mbtiSimulation/raw/main/installer/MBTISimulatorLab_Setup_1.0.exe",
   "mandatory": false,
   "changelog": "The very first version of MBTI Simulator Lab."
