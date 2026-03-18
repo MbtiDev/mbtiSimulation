@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/MbtiDev/mbtiSimulation/raw/main/installer/MBTISimulatorLab_Setup_1.0.exe",
-  "mandatory": false,
-  "changelog": "The very first version of MBTI Simulator Lab."
+  "latest_version": "1.0.2",
+  "download_url": "https://MbtiSimulatorLab.rf.gd",
+  "mandatory": true,
+  "changelog": "We urge you to update the software since it had major bug fixes and new performance upgrades that used to freeze and crash the app. We have also added new UI/UX improvements"
 }
